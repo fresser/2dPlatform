@@ -1,5 +1,5 @@
 boolean jumping, moveRight, moveLeft = false;
-float xPos, yPos;
+float playerX,playerY;
 
 void setup(){
 }
