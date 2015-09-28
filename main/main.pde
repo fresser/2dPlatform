@@ -1,2 +1,3 @@
-hej
-dette er ikke kode
+void draw(){
+  
+}
